@@ -238,7 +238,7 @@ var dependencies: [Package.Dependency] = [
     .package(url: "https://github.com/art-divin/StencilSwiftKit.git", branch: "stable"),
     .package(url: "https://github.com/art-divin/Stencil.git", branch: "master"),
     .package(url: "https://github.com/tuist/XcodeProj.git", exact: "8.3.1"),
-    .package(url: "https://github.com/apple/swift-syntax.git", from: "508.0.0"),
+    .package(url: "https://github.com/apple/swift-syntax.git", from: "509.0.0"),
     .package(url: "https://github.com/Quick/Quick.git", from: "3.0.0"),
     .package(url: "https://github.com/Quick/Nimble.git", from: "9.0.0"),
     .package(url: "https://github.com/apple/swift-package-manager", revision: "fa3db13e0bd00e33c187c63c80673b3ac7c82f55"),
